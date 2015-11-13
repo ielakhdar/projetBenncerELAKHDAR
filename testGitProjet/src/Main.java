@@ -8,7 +8,9 @@ public class Main {
 		// TODO Auto-generated method stub
 
 		
-		CLassIlias ibrahim = new CLassIlias();
+
+		CLassIlias ilias = new CLassIlias();
+
 		con.affProduit();
 	}
 
