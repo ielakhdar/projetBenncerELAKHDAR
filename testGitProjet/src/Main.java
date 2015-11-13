@@ -10,7 +10,7 @@ public class Main {
 		
 
 		CLassIlias ilias = new CLassIlias();
-
+        ClassIbrahim ibrahim = new ClassIbrahim();
 		con.affProduit();
 	}
 
