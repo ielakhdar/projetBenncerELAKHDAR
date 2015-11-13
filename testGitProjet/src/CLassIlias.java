@@ -1,12 +1,10 @@
 
 public class CLassIlias {
+	
+	public void affProduit(){
+		ClassIBrahim a = new ClassIbrahim();
+		System.out.println(a.produit(5));
+	} 
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
+	
 }
