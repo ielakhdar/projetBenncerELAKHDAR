@@ -11,7 +11,11 @@ public class Main {
 
 		CLassIlias ilias = new CLassIlias();
         ClassIbrahim ibrahim = new ClassIbrahim();
+<<<<<<< Updated upstream
 	
+=======
+		System.Out.println("resultat du produit *5 ok  ");
+>>>>>>> Stashed changes
 		con.affProduit();
 
 	}
