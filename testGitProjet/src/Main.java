@@ -11,7 +11,9 @@ public class Main {
 
 		CLassIlias ilias = new CLassIlias();
         ClassIbrahim ibrahim = new ClassIbrahim();
+		System.Out.println("resultat du produit : ");
 		con.affProduit();
+
 	}
 
 }
